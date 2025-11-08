@@ -10,6 +10,28 @@ class ViewModelBoard: ViewModel() {
 
 
 
+    fun getWeather() {
 
+    }
+
+    fun getNews() {
+
+    }
+
+    fun getCurrency() {
+
+    }
+
+    fun getCryptocurrency() {
+
+    }
+
+    fun getDateAndTime() {
+
+    }
+
+    fun getNetworkMonitoring() {
+
+    }
 
 }
